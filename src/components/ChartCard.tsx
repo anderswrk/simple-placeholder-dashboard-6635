@@ -16,7 +16,7 @@ export const ChartCard = () => {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Revenue Overview</CardTitle>
+        <CardTitle>Sales Performance</CardTitle>
         <CardDescription>
           Monthly revenue for the current year
         </CardDescription>
